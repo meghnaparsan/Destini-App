@@ -6,7 +6,5 @@ This is Story Telling, developed using Flutter.
 - Clone it with the url [https://github.com/meghnaparsan/Destini-App.git](https://github.com/meghnaparsan/Destini-App.git)
 - Go to lib/main.dart -> Click "Press Dependencies"
 - Done! The App would be ready to run on any Physical Device / Emulator
-    
-### The questions for the quiz can be found in question.dart
  
 Reference: The Complete 2020 Flutter Development Bootcamp with Dart
