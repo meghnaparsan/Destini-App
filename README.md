@@ -1,4 +1,4 @@
-# Quiz App
+# Destini App
 
 This is Story Telling, developed using Flutter. 
 
